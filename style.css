@@ -6,6 +6,10 @@
   height: 1200px;
 }
 
+.dino {
+  text-decoration-line: none;
+}
+
 #row {
   display: flex;
   justify-content: space-around;
